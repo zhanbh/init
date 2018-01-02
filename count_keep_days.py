@@ -75,7 +75,7 @@ def test_series(innercode):
 
 
 def main():
-    count_series(20171229)
+    count_series(20180112)
     # test_series('110100')
 
 if __name__ == '__main__':
