@@ -17,8 +17,8 @@ MIN60STEP = 60
 TABLENAME = 'z3_min_data'
 
 # DB_INFO = {'IP': '10.88.4.24', 'PORT': 27017, 'DBNAME': 'z3dbus'}
-DB_INFO = {'IP': '10.77.4.37', 'PORT': 27017, 'DBNAME': 'z3dbus'}
-# DB_INFO = {'IP': '192.168.232.131', 'PORT': 27017, 'DBNAME': 'z3dbus_test'}
+# DB_INFO = {'IP': '10.77.4.37', 'PORT': 27017, 'DBNAME': 'z3dbus'}
+DB_INFO = {'IP': '192.168.232.131', 'PORT': 27017, 'DBNAME': 'z3dbus_test'}
 
 USER_INFO = {'username': 'z3dbusadmin', 'password': 'z3dbusadmin'}
 
